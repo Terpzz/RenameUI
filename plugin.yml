@@ -1,0 +1,11 @@
+name: RenameUI
+version: 1.0.0
+api: 5.0.0
+main: Terpz710\RenameUI\Main
+author: Terpz710
+description: Use a UI to rename items.
+
+permissions:
+  renameui.cmd:
+    description: "Perm"
+    default: true
